@@ -2,10 +2,12 @@
 ### Tutor: Zhe Wang (Zoe)
 ---
 #### Contact:
-- Email: Zoe.wang1@nimelb.edu.au
+- Zoe.wang1@unimelb.edu.au
 - [LinkedIn](www.linkedin.com/in/zoe-zhe-wang)
 
-
+\
+\
+\
 ### Tutorial session
 ---
 - 2:15 PM Wednesday
