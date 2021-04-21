@@ -11,13 +11,13 @@
 &nbsp;
 
 ## Details
-Week2: Java compilation & run
-Week3: Primitive type and operation
-Week4: Flow control & git
-Week5: Class and methods
-Week6: non-teaching week
-Week7: Consultation for Assigment 1
-Week8: Arrays 
+- Week2: Java compilation & run
+- Week3: Primitive type and operation
+- Week4: Flow control & git
+- Week5: Class and methods
+- Week6: non-teaching week
+- Week7: Consultation for Assigment 1
+- Week8: Arrays 
 
 ### Tutorial session
 ---
