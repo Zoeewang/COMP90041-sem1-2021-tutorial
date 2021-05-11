@@ -18,6 +18,7 @@
 - Week6: non-teaching week
 - Week7: Consultation for Assigment 1
 - Week8: Arrays 
+- Week9: Inheritance & Polymorphism
 
 ### Tutorial session
 ---
