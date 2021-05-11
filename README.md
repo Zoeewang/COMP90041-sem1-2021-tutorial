@@ -15,10 +15,11 @@
 - Week3: Primitive type and operation
 - Week4: Flow control & git
 - Week5: Class and methods
-- Week6: non-teaching week
-- Week7: Consultation for Assigment 1
-- Week8: Arrays 
-- Week9: Inheritance & Polymorphism
+- non-teaching week
+- Week6: Consultation for Assigment 1
+- Week7: Arrays 
+- Week8: Inheritance & Polymorphism
+- Week9: continue abstract&interface, Consultation for Assigment 2
 
 ### Tutorial session
 ---
