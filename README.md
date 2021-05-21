@@ -20,7 +20,8 @@
 - Week7: Arrays 
 - Week8: Inheritance & Polymorphism
 - Week9: continue abstract&interface, Consultation for Assigment 2
-
+- Week10: Exception
+- Week11: File I/O
 ### Tutorial session
 ---
 - 2:15 PM Wednesday
