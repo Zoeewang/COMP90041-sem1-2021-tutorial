@@ -3,7 +3,7 @@
 ---
 #### Contact:
 - Zoe.wang1@unimelb.edu.au
-- [LinkedIn](www.linkedin.com/in/zoe-zhe-wang)
+- [LinkedIn](https://www.linkedin.com/in/zoe-zhe-wang)
 
 \
 &nbsp;
